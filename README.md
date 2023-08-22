@@ -23,4 +23,10 @@ MODIFICATIONS  AS OF 08/22/23
 15. CASELIGHT          LED light strip around top of enclosure    12Vdc
 16. CAMERA_LIGHT       Single LED inside the camera mount          5Vdc
 17. TOGGLE_POWER       Control relay for MCU supply voltage       24Vdc
-18. CASE_HEATER        500 Watt PTC HEATER                       110Vac
+18. HOST_FAN           Fan as part fo fan hat                      5Vdc
+
+19. 1 Channel relay operated with 5Vdc input signal,, output control for NO/NC/COM SPDT contacts  >
+20. CASE_FAN           Fan attached to heater for air flow         12vdc
+
+21. 1 Channel relay operated with 5Vdc input signal,, output control for NO/NC/COM SPDT contacts  >
+22. CASE_HEATER        500 Watt PTC HEATER                       110Vac
