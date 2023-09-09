@@ -1,6 +1,6 @@
 # Ender3_backup
 The repository for my Creality Ender3 Custom,
-!!! These files come with no ashurance to work with any other machine !!!
+!!! These files come with no asurance to work with any other machine !!!
 My machine is operating with Klipper/Mainsail OS
 MODIFICATIONS  AS OF 08/22/23
 1. CR Touch Z-axis bed Probe
