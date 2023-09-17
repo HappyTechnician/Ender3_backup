@@ -10,23 +10,12 @@ MODIFICATIONS  AS OF 08/22/23
 5. Creality Filament sensor
 
 6. Mainboard: BigTreeTech Mini E3.V3  (MCU)
-7. Raspberry PI 4b SBC                (Host)
-8. FAN-HAT Expansion board
+7. Raspberry PI 4b SBC                (Host)  with FAN-HAT Expansion board
+8. Raspberry PI Pico Micro-controller (pico)
 
 9. Meanwell 350 Watt 24vdc Power Supply
 10. 110-Vac bed heater operating from>
 11. Solid State Relay - bed control
-12. 2 Buck converters, Step Down voltage controls for: PI power: 5Vdc  Relay power: 5Vdc
-13. 4 MosFET power drivers to supply PWM and soft control of 3.5V to 5V, and 3.5V to 12V control
-
+12. 3 Buck converters, Step Down voltage controls for: PI and Relay power: 5Vdc. Fans, Lights, SSR Power: 12Vdc
+13. 6 MosFET power drivers to supply PWM and soft control of 3.5V to 5V, and 3.5V to 12V control
 14. 4 Channel relay operated with 5Vdc input signal,, output control for NO/NC/COM SPDT contacts  >
-15. CASELIGHT          LED light strip around top of enclosure    12Vdc
-16. CAMERA_LIGHT       Single LED inside the camera mount          5Vdc
-17. TOGGLE_POWER       Control relay for MCU supply voltage       24Vdc
-18. HOST_FAN           Fan as part fo fan hat                      5Vdc
-
-19. 1 Channel relay operated with 5Vdc input signal,, output control for NO/NC/COM SPDT contacts  >
-20. CASE_FAN           Fan attached to heater for air flow         12vdc
-
-21. 1 Channel relay operated with 5Vdc input signal,, output control for NO/NC/COM SPDT contacts  >
-22. CASE_HEATER        500 Watt PTC HEATER                       110Vac
