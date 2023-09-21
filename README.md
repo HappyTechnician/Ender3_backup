@@ -18,4 +18,5 @@ MODIFICATIONS  AS OF 09/15/23
 11. Solid State Relay - bed control
 12. 3 Buck converters, Step Down voltage controls for: PI and Relay power: 5Vdc. Fans, Lights, SSR Power: 12Vdc
 13. 6 MosFET power drivers to supply PWM and soft control of 3.5V to 5V, and 3.5V to 12V control
-14. 4 Channel relay operated with 5Vdc input signal,, output control for NO/NC/COM SPDT contacts  
+14. 4 Channel relay operated with 5Vdc input signal,, output control for NO/NC/COM SPDT contacts
+15. SSR - heater control 
